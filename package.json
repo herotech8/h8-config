@@ -1,5 +1,5 @@
 {
-  "name": "@herotech8/h8-config",
+  "name": "h8-config",
   "version": "1.0.0",
   "description": "",
   "main": "lib/config.js",
